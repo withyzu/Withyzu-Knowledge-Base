@@ -55,27 +55,23 @@ const vitePressSidebarOptions = [
   {
     documentRootPath: '/',
     scanStartPath: 'math',
-    basePath: '/math/',
-    resolvePath: '/math/',
+    resolvePath: '/math',
     useTitleFromFileHeading: true
   },
   {
     documentRootPath: '/',
     scanStartPath: 'chemistry',
-    basePath: '/chemistry/',
-    resolvePath: '/chemistry/',
+    resolvePath: '/chemistry',
     useTitleFromFileHeading: true
   }, {
     documentRootPath: '/',
     scanStartPath: 'csharp',
-    basePath: '/csharp/',
-    resolvePath: '/csharp/',
+    resolvePath: '/csharp',
     useTitleFromFileHeading: true
   }, {
     documentRootPath: '/',
     scanStartPath: 'manual',
-    basePath: '/manual/',
-    resolvePath: '/manual/',
+    resolvePath: '/manual',
     useTitleFromFileHeading: true
   }
 ];
